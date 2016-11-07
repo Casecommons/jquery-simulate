@@ -328,4 +328,4 @@ $.extend( $.simulate.prototype, {
 	}
 });
 
-})( jQuery );
+})(require('jquery'));
